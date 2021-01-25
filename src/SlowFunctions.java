@@ -80,4 +80,5 @@ public class SlowFunctions {
 			double d = Math.sqrt(new Random().nextInt(Integer.MAX_VALUE));
 		}
 	}
+
 }
